@@ -4,6 +4,12 @@ var primerNombre="Laura";
 var primerApellido="García";
 //Tipo de dato: number
 var edad=23;
+//Tipo de dato: string
+var colorFavorito='azul';
+console.log(colorFavorito);
+//Tipo de dato: string
+var colorMenosMeGusta='café';
+console.log(colorMenosMeGusta);
 //Tipo de dato: object
 const TIA1={
     nombre:'Arelis',
